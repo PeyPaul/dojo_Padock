@@ -8,5 +8,6 @@ COPY go.mod go.sum ./
 
 RUN go mod download
 
-RUN go build
+RUN go build -o app .
 
+COPY ./public public
