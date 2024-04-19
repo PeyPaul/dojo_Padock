@@ -1,2 +1,3 @@
 # dojo_Padock
-I will develop the description later
+A dojo I did withthe company Padock. It was about Docker
+There were pizza and food, it was really fun
